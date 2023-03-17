@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saitheja komalla</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-<img align="right" alt="Coding" width="250" height="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="230" height="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitheja20&label=Profile%20views&color=0e75b6&style=flat" alt="saitheja20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitheja20" alt="saitheja20" /></a> </p>
