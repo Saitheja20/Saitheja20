@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://saitheja20.github.io/resume/](https://saitheja20.github.io/resume/)
 
-- 📄 Know about more click to goto my portfolio ([https://saitheja20.github.io/MainPortfolio/](https://saitheja20.github.io/Saitheja_Portfolio/))
+- 📄 Know about more click to goto my portfolio (https://saitheja20.github.io/Saitheja_Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
