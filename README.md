@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitheja20" alt="saitheja20" /></a> </p>
 
-- 🔭 I’m currently working on **Meet N Treat**
+- 🔭 I’m currently working at **Kakatiya Solutions**
 
-- 🌱 I’m currently learning **Full-Stack-Web**
+- 🌱 I’m currently deployed as a **Full-Stack Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saitheja20/](https://github.com/Saitheja20/)
 
-- 💬 Ask me about **HTML5,CSS3,JS,C,JAVA,Linux,Embedded-C, Kernal programming, Socket programming**
+- 💬 Ask me about **HTML5,CSS3,JS,C,JAVA,Linux,Embedded-C, Kernal programming, Socket programming,php,Type Script,Angular**
 
 - 📫 How to reach me **komallasaiteja@gmail.com**
 
