@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saitheja komalla</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-<img align="right" alt="Coding" width="200" height="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="150" height="150" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitheja20&label=Profile%20views&color=0e75b6&style=flat" alt="saitheja20" /> </p>
 
