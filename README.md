@@ -105,5 +105,5 @@
 
 ### 📈 Activity Graph:
 <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saitheja20&theme=react&area=true" alt="GitHub Activity Graph">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitheja20&show_icons=true&locale=en&layout=compact" alt="saitheja20" /></p>
 </p>
