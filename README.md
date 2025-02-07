@@ -43,7 +43,7 @@
   <a href="https://github.com/saitheja20">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saitheja20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitheja20&layout=compact&langs_count=8&theme=dark"/>
-     <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=saitheja20&theme=dark"  />
+     <img height="180em"  src="[https://github-readme-streak-stats.herokuapp.com/?user=saitheja20&theme=dark" ](https://streak-stats.vercel.app/?user=saitheja20&theme=dark) />
   </a>
 </div>
 
